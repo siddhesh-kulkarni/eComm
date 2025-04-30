@@ -3,7 +3,7 @@ import Navbar from './Components/Navbar';
 import AllProducts from './pages/AllProducts';
 import Myaccount from './pages/Myaccount';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import MyOrders from './pages/MyOrders';
+import MyOrders from './pages/Myorders';
 import OrderDetails from './pages/OrderDetails';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
