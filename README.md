@@ -89,4 +89,4 @@ GitHub: [https://github.com/siddhesh-kulkarni](https://github.com/siddhesh-kulka
 
 ## 📄 License
 
-For educational and interview purposes only.
+For educational purposes only.
