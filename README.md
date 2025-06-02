@@ -4,10 +4,10 @@ This is a full-stack e-commerce web application that replicates the design and c
 It includes user authentication, dynamic product listings from an external API, a shopping cart, and a mock checkout process.
 
 ## 📁 Project Structure
-eComm/
-├── frontend/         # React + Vite frontend with UI and authentication
-├── backend/          # Node.js + Express backend with MongoDB authentication
-└── README.md
+eComm
+    frontend--> # React + Vite frontend with UI and authentication
+    backend-->  # Node.js + Express backend with MongoDB authentication
+    README.md
 
 ## 🚀 Live Demo
 
